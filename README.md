@@ -10,7 +10,7 @@ Our team has chosen to work on [BRIEF PROJECT DESCRIPTION]. This project is inte
 
 ## Team Members
 
-- [Ijay Narang '24]
+- [Ijay Narang '25]
 - [Windsor Nguyen '25]
 - [Kaan Odabas '25]
 
